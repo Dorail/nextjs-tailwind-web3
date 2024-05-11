@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  transition: 0.3s ease;
+}
+
+#Navbar {
+  z-index: 999;
+}
+
+#Slidebar {
+  height: 160vh;
+}
+
+#text-viewer {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+#lineShowmore {
+  width: 38.5vw;
+}
+
+#hoverImg:hover {
+  box-shadow: #AA42FF -5px 5px;
+  transform: translateX(5px);
+}
+
+#iconSetting {
+  right: 3.7vw;
+  z-index: 70;
+}
+
+#iconVideo {
+  z-index: 70;
+}
+
+#img11 {
+  z-index: 20;
+}
