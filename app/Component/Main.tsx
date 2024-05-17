@@ -1,5 +1,6 @@
 import React from 'react'
 import Image from 'next/image';
+import Link from 'next/link';
 
 //icon
 import { AiOutlineRollback } from "react-icons/ai";
@@ -26,7 +27,7 @@ function Main() {
                 </div>
             </div>
             {/* info 1 */}
-            <div id='infochanel-sdb' className='pl-3 flex justify-center items-center bg-[transparent] hover:bg-[#26262C] cursor-pointer p-1'>
+            <Link href="channellive" id='infochanel-sdb' className='pl-3 flex justify-center items-center bg-[transparent] hover:bg-[#26262C] cursor-pointer p-1'>
                 <div id='img-info'>
                     <Image src="/sdb/1.png" width={38} height={38} className='object-cover rounded-full'/>
                 </div>
@@ -44,11 +45,11 @@ function Main() {
                         </div>
                     </div>
                 </div>
-            </div>
+            </Link>
             {/* info 1 */}
 
             {/* info 2 */}
-            <div id='infochanel-sdb' className='pl-3 flex justify-center items-center bg-[transparent] hover:bg-[#26262C] cursor-pointer p-1'>
+            <Link href="/channellive" id='infochanel-sdb' className='pl-3 flex justify-center items-center bg-[transparent] hover:bg-[#26262C] cursor-pointer p-1'>
                 <div id='img-info'>
                     <Image src="/sdb/2.jpg" width={38} height={38} className='object-cover rounded-full'/>
                 </div>
@@ -66,11 +67,11 @@ function Main() {
                         </div>
                     </div>
                 </div>
-            </div>
+            </Link>
             {/* info 2 */}
 
             {/* info 3 */}
-            <div id='infochanel-sdb' className='pl-3 flex justify-center items-center bg-[transparent] hover:bg-[#26262C] cursor-pointer p-1'>
+            <Link href="/channellive" id='infochanel-sdb' className='pl-3 flex justify-center items-center bg-[transparent] hover:bg-[#26262C] cursor-pointer p-1'>
                 <div id='img-info'>
                     <Image src="/sdb/3.png" width={38} height={38} className='object-cover rounded-full'/>
                 </div>
@@ -88,11 +89,11 @@ function Main() {
                         </div>
                     </div>
                 </div>
-            </div>
+            </Link>
             {/* info 3 */}
 
             {/* info 4 */}
-            <div id='infochanel-sdb' className='pl-3 flex justify-center items-center bg-[transparent] hover:bg-[#26262C] cursor-pointer p-1'>
+            <Link href="/channellive" id='infochanel-sdb' className='pl-3 flex justify-center items-center bg-[transparent] hover:bg-[#26262C] cursor-pointer p-1'>
                 <div id='img-info'>
                     <Image src="/sdb/4.png" width={38} height={38} className='object-cover rounded-full'/>
                 </div>
@@ -110,11 +111,11 @@ function Main() {
                         </div>
                     </div>
                 </div>
-            </div>
+            </Link>
             {/* info 4 */}
 
             {/* info 5 */}
-            <div id='infochanel-sdb' className='pl-3 flex justify-center items-center bg-[transparent] hover:bg-[#26262C] cursor-pointer p-1'>
+            <Link href="/channellive" id='infochanel-sdb' className='pl-3 flex justify-center items-center bg-[transparent] hover:bg-[#26262C] cursor-pointer p-1'>
                 <div id='img-info'>
                     <Image src="/sdb/5.png" width={38} height={38} className='object-cover rounded-full'/>
                 </div>
@@ -132,11 +133,11 @@ function Main() {
                         </div>
                     </div>
                 </div>
-            </div>
+            </Link>
             {/* info 5 */}
 
             {/* info 6 */}
-            <div id='infochanel-sdb' className='pl-3 flex justify-center items-center bg-[transparent] hover:bg-[#26262C] cursor-pointer p-1'>
+            <Link href="/channellive" id='infochanel-sdb' className='pl-3 flex justify-center items-center bg-[transparent] hover:bg-[#26262C] cursor-pointer p-1'>
                 <div id='img-info'>
                     <Image src="/sdb/6.png" width={38} height={38} className='object-cover rounded-full'/>
                 </div>
@@ -154,11 +155,11 @@ function Main() {
                         </div>
                     </div>
                 </div>
-            </div>
+            </Link>
             {/* info 6 */}
 
             {/* info 7 */}
-            <div id='infochanel-sdb' className='pl-3 flex justify-center items-center bg-[transparent] hover:bg-[#26262C] cursor-pointer p-1'>
+            <Link href="/channellive" id='infochanel-sdb' className='pl-3 flex justify-center items-center bg-[transparent] hover:bg-[#26262C] cursor-pointer p-1'>
                 <div id='img-info'>
                     <Image src="/sdb/7.png" width={38} height={38} className='object-cover rounded-full'/>
                 </div>
@@ -176,11 +177,11 @@ function Main() {
                         </div>
                     </div>
                 </div>
-            </div>
+            </Link>
             {/* info 7 */}
 
             {/* info 8 */}
-            <div id='infochanel-sdb' className='pl-3 flex justify-center items-center bg-[transparent] hover:bg-[#26262C] cursor-pointer p-1'>
+            <Link href="/channellive" id='infochanel-sdb' className='pl-3 flex justify-center items-center bg-[transparent] hover:bg-[#26262C] cursor-pointer p-1'>
                 <div id='img-info'>
                     <Image src="/sdb/8.png" width={38} height={38} className='object-cover rounded-full'/>
                 </div>
@@ -198,11 +199,11 @@ function Main() {
                         </div>
                     </div>
                 </div>
-            </div>
+            </Link>
             {/* info 8 */}
 
             {/* info 9 */}
-            <div id='infochanel-sdb' className='pl-3 flex justify-center items-center bg-[transparent] hover:bg-[#26262C] cursor-pointer p-1'>
+            <Link href="/channellive" id='infochanel-sdb' className='pl-3 flex justify-center items-center bg-[transparent] hover:bg-[#26262C] cursor-pointer p-1'>
                 <div id='img-info'>
                     <Image src="/sdb/9.png" width={38} height={38} className='object-cover rounded-full'/>
                 </div>
@@ -220,7 +221,7 @@ function Main() {
                         </div>
                     </div>
                 </div>
-            </div>
+            </Link>
             {/* info 9 */}
         </div>
         <div id='Content' className='p-4 bg-[#0E0E10]'>
@@ -232,7 +233,7 @@ function Main() {
                     <FaChevronRight className='text-[#fff]'/>
                 </div>
                 <div id='con-video' className='container mx-auto my-0 mb-4'>
-                    <div id='info-video' className='flex justify-center'>
+                    <div id='info-video' className='hidden 2xl:flex justify-center'>
                         <div className='flex justify-center items-center relative'>
                             <Image src="/content/videoslick/1.jpg" width={550} height={550} className='object-cover z-50'/>
                             <div id='iconVideo' className='absolute top-1 left-2'>
@@ -253,11 +254,33 @@ function Main() {
                             <div id='iconSetting' className='absolute bottom-1 right-16'>
                                 <RiSettings3Fill className='text-[#fff] text-lg cursor-pointer'/>
                             </div>
-                            <div id='img11' className='absolute -left-40 z-30'>
-                                <Image src="/content/videoslick/left1.jpg" width={480} height={480} className='object-cover opacity-50 cursor-pointer hover:opacity-100 hover:scale-105'/>
+                            <div id='img11' className='absolute -left-40 z-30 cursor-pointer hover:scale-105 bg-[#000]'>
+                                <div className='relative'>
+                                    <Image src="/content/videoslick/left1.jpg" width={440} height={440} className='object-cover'/>
+                                </div>
+                                <div id='overlay' className='absolute bg-[red] left-0 top-0 w-full h-full'>
+                                </div>
                             </div>
-                            <div id='img11' className='absolute -right-96'>
-                                <Image src="/content/videoslick/right1.jpg" width={480} height={480} className='object-cover opacity-50 cursor-pointer hover:opacity-100 hover:scale-105'/>
+                            <div id='img22' className='absolute -left-80 z-10 cursor-pointer hover:scale-105'>
+                                <div className='relative'>
+                                    <Image src="/content/videoslick/left2.jpg" width={350} height={350} className='object-cover'/>
+                                </div>
+                                <div id='overlay' className='absolute bg-[red] left-0 top-0 w-full h-full'>
+                                </div>
+                            </div>
+                            <div id='img11' className='absolute -right-96 z-30 cursor-pointer hover:scale-105'>
+                                <div className='relative'>
+                                    <Image src="/content/videoslick/left1.jpg" width={440} height={440} className='object-cover'/>
+                                </div>
+                                <div id='overlay' className='absolute bg-[red] left-0 top-0 w-full h-full'>
+                                </div>
+                            </div>
+                            <div id='img22right' className='absolute -right-96 z-10 cursor-pointer hover:scale-105'>
+                                <div className='relative'>
+                                    <Image src="/content/videoslick/right2.jpg" width={350} height={350} className='object-cover'/>
+                                </div>
+                                <div id='overlay' className='absolute bg-[red] left-0 top-0 w-full h-full'>
+                                </div>
                             </div>
                         </div>
                         <div id='con-info-video' className='bg-[#18181B] p-4 w-52 z-50'>
@@ -452,7 +475,7 @@ function Main() {
             <div id='section-content-categories-game' className='mb-2'>
                 <p className='text-lg font-semibold text-[#fff]'><a href="#" className='text-[#AA42FF] text-lg font-semibold hover:underline'>Categories</a> we think you'll like</p>
             </div>
-            <div id='content-categories-game' className='flex gap-2'>
+            <div id='content-categories-game' className='grid grid-cols-10 gap-2'>
                 {/* info-categories-game 1 */}
                 <div id='info-categories-game'>
                     <div>

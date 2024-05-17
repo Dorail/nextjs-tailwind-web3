@@ -1,5 +1,6 @@
 import React from 'react'
 import Image from 'next/image'
+import Link from 'next/link';
 
 //Icon
 import { BsThreeDotsVertical } from "react-icons/bs";
@@ -12,11 +13,11 @@ function Navbar() {
     <div id='Navbar' className='bg-[#18181B] w-full h-full p-1 border-b border-solid border-[#000] sticky top-0'>
         <div className='text-[#fff] flex justify-between items-center'>
             <div id='left' className='flex justify-start items-center w-1/3'>
-                <div className='logo'>
+                <Link href="/" className='logo'>
                     <Image src="/twitchlogo.png" width={54} height={54} />
-                </div>
+                </Link>
                 <div id='left-logo' className='ml-4'>
-                    <h1 className='text-[#fff] hover:text-[#AA42FF] cursor-pointer text-lg font-semibold'>Browse</h1>
+                    <Link href="/" className='text-[#fff] hover:text-[#AA42FF] cursor-pointer text-lg font-semibold'>Browse</Link>
                 </div>
                 <div id='left-icon' className='ml-4 bg-[#transparent] hover:bg-[#333] p-1.5 rounded-md cursor-pointer'>
                     <BsThreeDotsVertical className='text-xl'/>

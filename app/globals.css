@@ -17,6 +17,10 @@
   height: 160vh;
 }
 
+#Slidebar2 {
+  height: 94.2vh;
+}
+
 #text-viewer {
   background-color: rgba(0, 0, 0, 0.5);
 }
@@ -41,4 +45,24 @@
 
 #img11 {
   z-index: 20;
+}
+
+#img22right {
+  right: -28vw;
+}
+
+#overlay {
+  background-color: rgb(0 0 0 / 60%);
+}
+
+#overlay:hover {
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+#content-chat {
+  width: 19vw;
+}
+
+#content-video {
+  width: 67vw;
 }
