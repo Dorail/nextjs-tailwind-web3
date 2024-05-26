@@ -44,7 +44,7 @@ function page() {
                 {/* info 1 */}
                 <Link href="channellive" id='infochanel-sdb' className='pl-3 flex justify-center items-center bg-[transparent] hover:bg-[#26262C] cursor-pointer p-1'>
                     <div id='img-info'>
-                        <Image src="/sdb/1.png" width={38} height={38} className='object-cover rounded-full'/>
+                        <Image src="/sdb/1.png" alt='' width={38} height={38} className='object-cover rounded-full'/>
                     </div>
                     <div id='text-info' className='w-full'>
                         <div id='text-top' className='w-full flex justify-between items-center'>
@@ -66,7 +66,7 @@ function page() {
                 {/* info 2 */}
                 <Link href="/channellive" id='infochanel-sdb' className='pl-3 flex justify-center items-center bg-[transparent] hover:bg-[#26262C] cursor-pointer p-1'>
                     <div id='img-info'>
-                        <Image src="/sdb/2.jpg" width={38} height={38} className='object-cover rounded-full'/>
+                        <Image src="/sdb/2.jpg" alt='' width={38} height={38} className='object-cover rounded-full'/>
                     </div>
                     <div id='text-info' className='w-full'>
                         <div id='text-top' className='w-full flex justify-between items-center'>
@@ -88,7 +88,7 @@ function page() {
                 {/* info 3 */}
                 <Link href="/channellive" id='infochanel-sdb' className='pl-3 flex justify-center items-center bg-[transparent] hover:bg-[#26262C] cursor-pointer p-1'>
                     <div id='img-info'>
-                        <Image src="/sdb/3.png" width={38} height={38} className='object-cover rounded-full'/>
+                        <Image src="/sdb/3.png" alt='' width={38} height={38} className='object-cover rounded-full'/>
                     </div>
                     <div id='text-info' className='w-full'>
                         <div id='text-top' className='w-full flex justify-between items-center'>
@@ -110,7 +110,7 @@ function page() {
                 {/* info 4 */}
                 <Link href="/channellive" id='infochanel-sdb' className='pl-3 flex justify-center items-center bg-[transparent] hover:bg-[#26262C] cursor-pointer p-1'>
                     <div id='img-info'>
-                        <Image src="/sdb/4.png" width={38} height={38} className='object-cover rounded-full'/>
+                        <Image src="/sdb/4.png" alt='' width={38} height={38} className='object-cover rounded-full'/>
                     </div>
                     <div id='text-info' className='w-full'>
                         <div id='text-top' className='w-full flex justify-between items-center'>
@@ -132,7 +132,7 @@ function page() {
                 {/* info 5 */}
                 <Link href="/channellive" id='infochanel-sdb' className='pl-3 flex justify-center items-center bg-[transparent] hover:bg-[#26262C] cursor-pointer p-1'>
                     <div id='img-info'>
-                        <Image src="/sdb/5.png" width={38} height={38} className='object-cover rounded-full'/>
+                        <Image src="/sdb/5.png" alt='' width={38} height={38} className='object-cover rounded-full'/>
                     </div>
                     <div id='text-info' className='w-full'>
                         <div id='text-top' className='w-full flex justify-between items-center'>
@@ -154,7 +154,7 @@ function page() {
                 {/* info 6 */}
                 <Link href="/channellive" id='infochanel-sdb' className='pl-3 flex justify-center items-center bg-[transparent] hover:bg-[#26262C] cursor-pointer p-1'>
                     <div id='img-info'>
-                        <Image src="/sdb/6.png" width={38} height={38} className='object-cover rounded-full'/>
+                        <Image src="/sdb/6.png" alt='' width={38} height={38} className='object-cover rounded-full'/>
                     </div>
                     <div id='text-info' className='w-full'>
                         <div id='text-top' className='w-full flex justify-between items-center'>
@@ -176,7 +176,7 @@ function page() {
                 {/* info 7 */}
                 <Link href="/channellive" id='infochanel-sdb' className='pl-3 flex justify-center items-center bg-[transparent] hover:bg-[#26262C] cursor-pointer p-1'>
                     <div id='img-info'>
-                        <Image src="/sdb/7.png" width={38} height={38} className='object-cover rounded-full'/>
+                        <Image src="/sdb/7.png" alt='' width={38} height={38} className='object-cover rounded-full'/>
                     </div>
                     <div id='text-info' className='w-full'>
                         <div id='text-top' className='w-full flex justify-between items-center'>
@@ -198,7 +198,7 @@ function page() {
                 {/* info 8 */}
                 <Link href="/channellive" id='infochanel-sdb' className='pl-3 flex justify-center items-center bg-[transparent] hover:bg-[#26262C] cursor-pointer p-1'>
                     <div id='img-info'>
-                        <Image src="/sdb/8.png" width={38} height={38} className='object-cover rounded-full'/>
+                        <Image src="/sdb/8.png" alt='' width={38} height={38} className='object-cover rounded-full'/>
                     </div>
                     <div id='text-info' className='w-full'>
                         <div id='text-top' className='w-full flex justify-between items-center'>
@@ -220,7 +220,7 @@ function page() {
                 {/* info 9 */}
                 <Link href="/channellive" id='infochanel-sdb' className='pl-3 flex justify-center items-center bg-[transparent] hover:bg-[#26262C] cursor-pointer p-1'>
                     <div id='img-info'>
-                        <Image src="/sdb/9.png" width={38} height={38} className='object-cover rounded-full'/>
+                        <Image src="/sdb/9.png" alt='' width={38} height={38} className='object-cover rounded-full'/>
                     </div>
                     <div id='text-info' className='w-full'>
                         <div id='text-top' className='w-full flex justify-between items-center'>
@@ -261,7 +261,7 @@ function page() {
                     <div id='git-center' className='cursor-pointer bg-[#transparent] hover:bg-[#333] p-1.5 px-5 py-2'>
                         <div id='git-1' className='flex'>
                             <div className='mr-2'>
-                                <Image src="/channellive/steamchat/git1.png" width={32} height={32} />
+                                <Image src="/channellive/steamchat/git1.png" alt='' width={32} height={32} />
                             </div>
                             <div id='text-git-1' className='mr-4'>
                                 <p className='text-[#fff] text-sm font-bold'>Dorail</p>
@@ -273,7 +273,7 @@ function page() {
                             <div id='git-2-3'>
                                 <div id='git-2' className='flex justify-center items-center mr-4'>
                                     <div className='mr-2 mb-2'>
-                                        <Image src="/channellive/steamchat/git2.png" width={19} height={19} />
+                                        <Image src="/channellive/steamchat/git2.png" alt='' width={19} height={19} />
                                     </div>
                                     <div>
                                         <p className='text-[#fff] text-sm font-bold'>Dorail</p>
@@ -281,7 +281,7 @@ function page() {
                                 </div>
                                 <div id='git-3' className='flex justify-center items-center mr-4'>
                                     <div className='mr-2'>
-                                        <Image src="/channellive/steamchat/git3.png" width={19} height={19} />
+                                        <Image src="/channellive/steamchat/git3.png" alt='' width={19} height={19} />
                                     </div>
                                     <div>
                                         <p className='text-[#fff] text-sm font-bold'>Dorail</p>
