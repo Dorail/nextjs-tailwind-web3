@@ -305,7 +305,7 @@ function Main() {
                 </div>
             </div>
             <div id='section-content-live-channel' className='mb-2'>
-                <p className='text-lg font-semibold text-[#fff]'><a href="#" className='text-[#AA42FF] text-lg font-semibold hover:underline'>Live channels</a> we think you'll like</p>
+                <p className='text-lg font-semibold text-[#fff]'><a href="#" className='text-[#AA42FF] text-lg font-semibold hover:underline'>Live channels</a> we think you&apos;ll like</p>
             </div>
             <div id='content-live-channel' className='grid grid-cols-5 gap-x-2'>
                 {/* info-live 1 */}
@@ -473,7 +473,7 @@ function Main() {
                 </div>
             </div>
             <div id='section-content-categories-game' className='mb-2'>
-                <p className='text-lg font-semibold text-[#fff]'><a href="#" className='text-[#AA42FF] text-lg font-semibold hover:underline'>Categories</a> we think you'll like</p>
+                <p className='text-lg font-semibold text-[#fff]'><a href="#" className='text-[#AA42FF] text-lg font-semibold hover:underline'>Categories</a> we think you&apos;ll like</p>
             </div>
             <div id='content-categories-game' className='grid grid-cols-10 gap-2'>
                 {/* info-categories-game 1 */}
