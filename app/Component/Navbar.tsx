@@ -14,7 +14,7 @@ function Navbar() {
         <div className='text-[#fff] flex justify-between items-center'>
             <div id='left' className='flex justify-start items-center w-1/3'>
                 <Link href="/" className='logo'>
-                    <Image src="/twitchlogo.png" width={54} height={54} />
+                    <Image src="/twitchlogo.png" alt='' width={54} height={54} />
                 </Link>
                 <div id='left-logo' className='ml-4'>
                     <Link href="/" className='text-[#fff] hover:text-[#AA42FF] cursor-pointer text-lg font-semibold'>Browse</Link>

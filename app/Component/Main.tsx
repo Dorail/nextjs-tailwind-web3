@@ -29,7 +29,7 @@ function Main() {
             {/* info 1 */}
             <Link href="channellive" id='infochanel-sdb' className='pl-3 flex justify-center items-center bg-[transparent] hover:bg-[#26262C] cursor-pointer p-1'>
                 <div id='img-info'>
-                    <Image src="/sdb/1.png" width={38} height={38} className='object-cover rounded-full'/>
+                    <Image src="/sdb/1.png" alt='' width={38} height={38} className='object-cover rounded-full'/>
                 </div>
                 <div id='text-info' className='w-full'>
                     <div id='text-top' className='w-full flex justify-between items-center'>
@@ -51,7 +51,7 @@ function Main() {
             {/* info 2 */}
             <Link href="/channellive" id='infochanel-sdb' className='pl-3 flex justify-center items-center bg-[transparent] hover:bg-[#26262C] cursor-pointer p-1'>
                 <div id='img-info'>
-                    <Image src="/sdb/2.jpg" width={38} height={38} className='object-cover rounded-full'/>
+                    <Image src="/sdb/2.jpg" alt='' width={38} height={38} className='object-cover rounded-full'/>
                 </div>
                 <div id='text-info' className='w-full'>
                     <div id='text-top' className='w-full flex justify-between items-center'>
@@ -73,7 +73,7 @@ function Main() {
             {/* info 3 */}
             <Link href="/channellive" id='infochanel-sdb' className='pl-3 flex justify-center items-center bg-[transparent] hover:bg-[#26262C] cursor-pointer p-1'>
                 <div id='img-info'>
-                    <Image src="/sdb/3.png" width={38} height={38} className='object-cover rounded-full'/>
+                    <Image src="/sdb/3.png" alt='' width={38} height={38} className='object-cover rounded-full'/>
                 </div>
                 <div id='text-info' className='w-full'>
                     <div id='text-top' className='w-full flex justify-between items-center'>
@@ -95,7 +95,7 @@ function Main() {
             {/* info 4 */}
             <Link href="/channellive" id='infochanel-sdb' className='pl-3 flex justify-center items-center bg-[transparent] hover:bg-[#26262C] cursor-pointer p-1'>
                 <div id='img-info'>
-                    <Image src="/sdb/4.png" width={38} height={38} className='object-cover rounded-full'/>
+                    <Image src="/sdb/4.png" alt='' width={38} height={38} className='object-cover rounded-full'/>
                 </div>
                 <div id='text-info' className='w-full'>
                     <div id='text-top' className='w-full flex justify-between items-center'>
@@ -117,7 +117,7 @@ function Main() {
             {/* info 5 */}
             <Link href="/channellive" id='infochanel-sdb' className='pl-3 flex justify-center items-center bg-[transparent] hover:bg-[#26262C] cursor-pointer p-1'>
                 <div id='img-info'>
-                    <Image src="/sdb/5.png" width={38} height={38} className='object-cover rounded-full'/>
+                    <Image src="/sdb/5.png" alt='' width={38} height={38} className='object-cover rounded-full'/>
                 </div>
                 <div id='text-info' className='w-full'>
                     <div id='text-top' className='w-full flex justify-between items-center'>
@@ -139,7 +139,7 @@ function Main() {
             {/* info 6 */}
             <Link href="/channellive" id='infochanel-sdb' className='pl-3 flex justify-center items-center bg-[transparent] hover:bg-[#26262C] cursor-pointer p-1'>
                 <div id='img-info'>
-                    <Image src="/sdb/6.png" width={38} height={38} className='object-cover rounded-full'/>
+                    <Image src="/sdb/6.png" alt='' width={38} height={38} className='object-cover rounded-full'/>
                 </div>
                 <div id='text-info' className='w-full'>
                     <div id='text-top' className='w-full flex justify-between items-center'>
@@ -161,7 +161,7 @@ function Main() {
             {/* info 7 */}
             <Link href="/channellive" id='infochanel-sdb' className='pl-3 flex justify-center items-center bg-[transparent] hover:bg-[#26262C] cursor-pointer p-1'>
                 <div id='img-info'>
-                    <Image src="/sdb/7.png" width={38} height={38} className='object-cover rounded-full'/>
+                    <Image src="/sdb/7.png" alt='' width={38} height={38} className='object-cover rounded-full'/>
                 </div>
                 <div id='text-info' className='w-full'>
                     <div id='text-top' className='w-full flex justify-between items-center'>
@@ -183,7 +183,7 @@ function Main() {
             {/* info 8 */}
             <Link href="/channellive" id='infochanel-sdb' className='pl-3 flex justify-center items-center bg-[transparent] hover:bg-[#26262C] cursor-pointer p-1'>
                 <div id='img-info'>
-                    <Image src="/sdb/8.png" width={38} height={38} className='object-cover rounded-full'/>
+                    <Image src="/sdb/8.png" alt='' width={38} height={38} className='object-cover rounded-full'/>
                 </div>
                 <div id='text-info' className='w-full'>
                     <div id='text-top' className='w-full flex justify-between items-center'>
@@ -205,7 +205,7 @@ function Main() {
             {/* info 9 */}
             <Link href="/channellive" id='infochanel-sdb' className='pl-3 flex justify-center items-center bg-[transparent] hover:bg-[#26262C] cursor-pointer p-1'>
                 <div id='img-info'>
-                    <Image src="/sdb/9.png" width={38} height={38} className='object-cover rounded-full'/>
+                    <Image src="/sdb/9.png" alt='' width={38} height={38} className='object-cover rounded-full'/>
                 </div>
                 <div id='text-info' className='w-full'>
                     <div id='text-top' className='w-full flex justify-between items-center'>
@@ -235,7 +235,7 @@ function Main() {
                 <div id='con-video' className='container mx-auto my-0 mb-4'>
                     <div id='info-video' className='hidden 2xl:flex justify-center'>
                         <div className='flex justify-center items-center relative'>
-                            <Image src="/content/videoslick/1.jpg" width={550} height={550} className='object-cover z-50'/>
+                            <Image src="/content/videoslick/1.jpg" alt='' width={550} height={550} className='object-cover z-50'/>
                             <div id='iconVideo' className='absolute top-1 left-2'>
                                 <button className='text-xs text-[#fff] bg-[red] font-bold py-0.5 px-1 rounded'>LIVE</button>
                             </div>
@@ -256,28 +256,28 @@ function Main() {
                             </div>
                             <div id='img11' className='absolute -left-40 z-30 cursor-pointer hover:scale-105 bg-[#000]'>
                                 <div className='relative'>
-                                    <Image src="/content/videoslick/left1.jpg" width={440} height={440} className='object-cover'/>
+                                    <Image src="/content/videoslick/left1.jpg" alt='' width={440} height={440} className='object-cover'/>
                                 </div>
                                 <div id='overlay' className='absolute bg-[red] left-0 top-0 w-full h-full'>
                                 </div>
                             </div>
                             <div id='img22' className='absolute -left-80 z-10 cursor-pointer hover:scale-105'>
                                 <div className='relative'>
-                                    <Image src="/content/videoslick/left2.jpg" width={350} height={350} className='object-cover'/>
+                                    <Image src="/content/videoslick/left2.jpg" alt='' width={350} height={350} className='object-cover'/>
                                 </div>
                                 <div id='overlay' className='absolute bg-[red] left-0 top-0 w-full h-full'>
                                 </div>
                             </div>
                             <div id='img11' className='absolute -right-96 z-30 cursor-pointer hover:scale-105'>
                                 <div className='relative'>
-                                    <Image src="/content/videoslick/left1.jpg" width={440} height={440} className='object-cover'/>
+                                    <Image src="/content/videoslick/left1.jpg" alt='' width={440} height={440} className='object-cover'/>
                                 </div>
                                 <div id='overlay' className='absolute bg-[red] left-0 top-0 w-full h-full'>
                                 </div>
                             </div>
                             <div id='img22right' className='absolute -right-96 z-10 cursor-pointer hover:scale-105'>
                                 <div className='relative'>
-                                    <Image src="/content/videoslick/right2.jpg" width={350} height={350} className='object-cover'/>
+                                    <Image src="/content/videoslick/right2.jpg" alt='' width={350} height={350} className='object-cover'/>
                                 </div>
                                 <div id='overlay' className='absolute bg-[red] left-0 top-0 w-full h-full'>
                                 </div>
@@ -285,7 +285,7 @@ function Main() {
                         </div>
                         <div id='con-info-video' className='bg-[#18181B] p-4 w-52 z-50'>
                         <div className='flex'>
-                            <Image src="/content/videoslick/profile1.png" width={48} height={48} className='object-contain rounded-full'/>
+                            <Image src="/content/videoslick/profile1.png" alt='' width={48} height={48} className='object-contain rounded-full'/>
                             <div className='ml-4 mt-1'>
                                 <a href="#" className='text-[#AA42FF] hover:underline text-sm font-semibold'>BurkeBlack</a><br />
                                 <a href="#" className='text-[#AA42FF] hover:underline text-sm font-semibold'>Homeworld 3</a>
@@ -312,7 +312,7 @@ function Main() {
                 <div id='con-info-live'>
                     <div id='info-live-video' className='relative'>     
                         <div>
-                            <Image id='hoverImg' src="/content/livechannel/1.jpg" width={360} height={360} className='object-cover cursor-pointer'/>
+                            <Image id='hoverImg' src="/content/livechannel/1.jpg" alt='' width={360} height={360} className='object-cover cursor-pointer'/>
                         </div>
                         <div className='absolute top-1 left-2'>
                             <button className='text-xs text-[#fff] bg-[red] font-bold py-0.5 px-1 rounded'>LIVE</button>
@@ -323,7 +323,7 @@ function Main() {
                     </div>
                     <div id='info-live-desc' className='flex gap-2 my-2'>
                         <div>
-                            <Image src="/content/liveprofile/1.png" width={38} height={38} className='object-cover rounded-full cursor-pointer'/>
+                            <Image src="/content/liveprofile/1.png" alt='' width={38} height={38} className='object-cover rounded-full cursor-pointer'/>
                         </div>
                         <div className='flex flex-col ml-1'>
                             <p className='text-sm font-semibold pb-1 hover:text-[#AA42FF] cursor-pointer text-[#fff]'>FNC vs TL | DAY 10 | MSI 2024</p>
@@ -342,7 +342,7 @@ function Main() {
                 <div id='con-info-live'>
                     <div id='info-live-video' className='relative'>     
                         <div>
-                            <Image id='hoverImg' src="/content/livechannel/1.jpg" width={360} height={360} className='object-cover cursor-pointer'/>
+                            <Image id='hoverImg' src="/content/livechannel/1.jpg" alt='' width={360} height={360} className='object-cover cursor-pointer'/>
                         </div>
                         <div className='absolute top-1 left-2'>
                             <button className='text-xs text-[#fff] bg-[red] font-bold py-0.5 px-1 rounded'>LIVE</button>
@@ -353,7 +353,7 @@ function Main() {
                     </div>
                     <div id='info-live-desc' className='flex gap-2 my-2'>
                         <div>
-                            <Image src="/content/liveprofile/1.png" width={38} height={38} className='object-cover rounded-full cursor-pointer'/>
+                            <Image src="/content/liveprofile/1.png" alt='' width={38} height={38} className='object-cover rounded-full cursor-pointer'/>
                         </div>
                         <div className='flex flex-col ml-1'>
                             <p className='text-sm font-semibold pb-1 hover:text-[#AA42FF] cursor-pointer text-[#fff]'>FNC vs TL | DAY 10 | MSI 2024</p>
@@ -372,7 +372,7 @@ function Main() {
                 <div id='con-info-live'>
                     <div id='info-live-video' className='relative'>     
                         <div>
-                            <Image id='hoverImg' src="/content/livechannel/1.jpg" width={360} height={360} className='object-cover cursor-pointer'/>
+                            <Image id='hoverImg' src="/content/livechannel/1.jpg" alt='' width={360} height={360} className='object-cover cursor-pointer'/>
                         </div>
                         <div className='absolute top-1 left-2'>
                             <button className='text-xs text-[#fff] bg-[red] font-bold py-0.5 px-1 rounded'>LIVE</button>
@@ -383,7 +383,7 @@ function Main() {
                     </div>
                     <div id='info-live-desc' className='flex gap-2 my-2'>
                         <div>
-                            <Image src="/content/liveprofile/1.png" width={38} height={38} className='object-cover rounded-full cursor-pointer'/>
+                            <Image src="/content/liveprofile/1.png" alt='' width={38} height={38} className='object-cover rounded-full cursor-pointer'/>
                         </div>
                         <div className='flex flex-col ml-1'>
                             <p className='text-sm font-semibold pb-1 hover:text-[#AA42FF] cursor-pointer text-[#fff]'>FNC vs TL | DAY 10 | MSI 2024</p>
@@ -402,7 +402,7 @@ function Main() {
                 <div id='con-info-live'>
                     <div id='info-live-video' className='relative'>     
                         <div>
-                            <Image id='hoverImg' src="/content/livechannel/1.jpg" width={360} height={360} className='object-cover cursor-pointer'/>
+                            <Image id='hoverImg' src="/content/livechannel/1.jpg" alt='' width={360} height={360} className='object-cover cursor-pointer'/>
                         </div>
                         <div className='absolute top-1 left-2'>
                             <button className='text-xs text-[#fff] bg-[red] font-bold py-0.5 px-1 rounded'>LIVE</button>
@@ -413,7 +413,7 @@ function Main() {
                     </div>
                     <div id='info-live-desc' className='flex gap-2 my-2'>
                         <div>
-                            <Image src="/content/liveprofile/1.png" width={38} height={38} className='object-cover rounded-full cursor-pointer'/>
+                            <Image src="/content/liveprofile/1.png" alt='' width={38} height={38} className='object-cover rounded-full cursor-pointer'/>
                         </div>
                         <div className='flex flex-col ml-1'>
                             <p className='text-sm font-semibold pb-1 hover:text-[#AA42FF] cursor-pointer text-[#fff]'>FNC vs TL | DAY 10 | MSI 2024</p>
@@ -432,7 +432,7 @@ function Main() {
                 <div id='con-info-live'>
                     <div id='info-live-video' className='relative'>     
                         <div>
-                            <Image id='hoverImg' src="/content/livechannel/1.jpg" width={360} height={360} className='object-cover cursor-pointer'/>
+                            <Image id='hoverImg' src="/content/livechannel/1.jpg" alt='' width={360} height={360} className='object-cover cursor-pointer'/>
                         </div>
                         <div className='absolute top-1 left-2'>
                             <button className='text-xs text-[#fff] bg-[red] font-bold py-0.5 px-1 rounded'>LIVE</button>
@@ -443,7 +443,7 @@ function Main() {
                     </div>
                     <div id='info-live-desc' className='flex gap-2 my-2'>
                         <div>
-                            <Image src="/content/liveprofile/1.png" width={38} height={38} className='object-cover rounded-full cursor-pointer'/>
+                            <Image src="/content/liveprofile/1.png" alt='' width={38} height={38} className='object-cover rounded-full cursor-pointer'/>
                         </div>
                         <div className='flex flex-col ml-1'>
                             <p className='text-sm font-semibold pb-1 hover:text-[#AA42FF] cursor-pointer text-[#fff]'>FNC vs TL | DAY 10 | MSI 2024</p>
@@ -479,7 +479,7 @@ function Main() {
                 {/* info-categories-game 1 */}
                 <div id='info-categories-game'>
                     <div>
-                        <Image id='hoverImg' src="/content/categories/1.jpg" width={160} height={160} className='cursor-pointer'/>
+                        <Image id='hoverImg' src="/content/categories/1.jpg" alt='' width={160} height={160} className='cursor-pointer'/>
                     </div>
                     <div className='ml-0.5'>
                         <div className='mt-2'>
@@ -499,7 +499,7 @@ function Main() {
                 {/* info-categories-game 2 */}
                 <div id='info-categories-game'>
                     <div>
-                        <Image id='hoverImg' src="/content/categories/2.jpg" width={160} height={160} className='cursor-pointer'/>
+                        <Image id='hoverImg' src="/content/categories/2.jpg" alt='' width={160} height={160} className='cursor-pointer'/>
                     </div>
                     <div className='ml-0.5'>
                         <div className='mt-2'>
@@ -518,7 +518,7 @@ function Main() {
                 {/* info-categories-game 3 */}
                 <div id='info-categories-game'>
                     <div>
-                        <Image id='hoverImg' src="/content/categories/3.jpg" width={160} height={160} className='cursor-pointer'/>
+                        <Image id='hoverImg' src="/content/categories/3.jpg" alt='' width={160} height={160} className='cursor-pointer'/>
                     </div>
                     <div className='ml-0.5'>
                         <div className='mt-2'>
@@ -538,7 +538,7 @@ function Main() {
                 {/* info-categories-game 4 */}
                 <div id='info-categories-game'>
                     <div>
-                        <Image id='hoverImg' src="/content/categories/4.jpg" width={160} height={160} className='cursor-pointer'/>
+                        <Image id='hoverImg' src="/content/categories/4.jpg" alt='' width={160} height={160} className='cursor-pointer'/>
                     </div>
                     <div className='ml-0.5'>
                         <div className='mt-2'>
@@ -558,7 +558,7 @@ function Main() {
                 {/* info-categories-game 5 */}
                 <div id='info-categories-game'>
                     <div>
-                        <Image id='hoverImg' src="/content/categories/5.png" width={160} height={160} className='cursor-pointer'/>
+                        <Image id='hoverImg' src="/content/categories/5.png" alt='' width={160} height={160} className='cursor-pointer'/>
                     </div>
                     <div className='ml-0.5'>
                         <div className='mt-2'>
@@ -578,7 +578,7 @@ function Main() {
                 {/* info-categories-game 6 */}
                 <div id='info-categories-game'>
                     <div>
-                        <Image id='hoverImg' src="/content/categories/6.png" width={160} height={160} className='cursor-pointer'/>
+                        <Image id='hoverImg' src="/content/categories/6.png" alt='' width={160} height={160} className='cursor-pointer'/>
                     </div>
                     <div className='ml-0.5'>
                         <div className='mt-2'>
@@ -598,7 +598,7 @@ function Main() {
                 {/* info-categories-game 7 */}
                 <div id='info-categories-game'>
                     <div>
-                        <Image id='hoverImg' src="/content/categories/7.jpg" width={160} height={160} className='cursor-pointer'/>
+                        <Image id='hoverImg' src="/content/categories/7.jpg" alt='' width={160} height={160} className='cursor-pointer'/>
                     </div>
                     <div className='ml-0.5'>
                         <div className='mt-2'>
@@ -618,7 +618,7 @@ function Main() {
                 {/* info-categories-game 8 */}
                 <div id='info-categories-game'>
                     <div>
-                        <Image id='hoverImg' src="/content/categories/8.jpg" width={160} height={160} className='cursor-pointer'/>
+                        <Image id='hoverImg' src="/content/categories/8.jpg" alt='' width={160} height={160} className='cursor-pointer'/>
                     </div>
                     <div className='ml-0.5'>
                         <div className='mt-2'>
@@ -638,7 +638,7 @@ function Main() {
                 {/* info-categories-game 9 */}
                 <div id='info-categories-game'>
                     <div>
-                        <Image id='hoverImg' src="/content/categories/9.png" width={160} height={160} className='cursor-pointer'/>
+                        <Image id='hoverImg' src="/content/categories/9.png" alt='' width={160} height={160} className='cursor-pointer'/>
                     </div>
                     <div className='ml-0.5'>
                         <div className='mt-2'>
@@ -658,7 +658,7 @@ function Main() {
                 {/* info-categories-game 10 */}
                 <div id='info-categories-game'>
                     <div>
-                        <Image id='hoverImg' src="/content/categories/10.jpg" width={160} height={160} className='cursor-pointer'/>
+                        <Image id='hoverImg' src="/content/categories/10.jpg" alt='' width={160} height={160} className='cursor-pointer'/>
                     </div>
                     <div className='ml-0.5'>
                         <div className='mt-2'>
@@ -686,7 +686,7 @@ function Main() {
                 <div id='con-info-live'>
                     <div id='info-live-video' className='relative'>     
                         <div>
-                            <Image id='hoverImg' src="/content/livechannel/1.jpg" width={360} height={360} className='object-cover cursor-pointer'/>
+                            <Image id='hoverImg' src="/content/livechannel/1.jpg" alt='' width={360} height={360} className='object-cover cursor-pointer'/>
                         </div>
                         <div className='absolute top-1 left-2'>
                             <button className='text-xs text-[#fff] bg-[red] font-bold py-0.5 px-1 rounded'>LIVE</button>
@@ -697,7 +697,7 @@ function Main() {
                     </div>
                     <div id='info-live-desc' className='flex gap-2 my-2'>
                         <div>
-                            <Image src="/content/liveprofile/1.png" width={38} height={38} className='object-cover rounded-full cursor-pointer'/>
+                            <Image src="/content/liveprofile/1.png" alt='' width={38} height={38} className='object-cover rounded-full cursor-pointer'/>
                         </div>
                         <div className='flex flex-col ml-1'>
                             <p className='text-sm font-semibold pb-1 hover:text-[#AA42FF] cursor-pointer text-[#fff]'>FNC vs TL | DAY 10 | MSI 2024</p>
@@ -716,7 +716,7 @@ function Main() {
                 <div id='con-info-live'>
                     <div id='info-live-video' className='relative'>     
                         <div>
-                            <Image id='hoverImg' src="/content/livechannel/1.jpg" width={360} height={360} className='object-cover cursor-pointer'/>
+                            <Image id='hoverImg' src="/content/livechannel/1.jpg" alt='' width={360} height={360} className='object-cover cursor-pointer'/>
                         </div>
                         <div className='absolute top-1 left-2'>
                             <button className='text-xs text-[#fff] bg-[red] font-bold py-0.5 px-1 rounded'>LIVE</button>
@@ -727,7 +727,7 @@ function Main() {
                     </div>
                     <div id='info-live-desc' className='flex gap-2 my-2'>
                         <div>
-                            <Image src="/content/liveprofile/1.png" width={38} height={38} className='object-cover rounded-full cursor-pointer'/>
+                            <Image src="/content/liveprofile/1.png" alt='' width={38} height={38} className='object-cover rounded-full cursor-pointer'/>
                         </div>
                         <div className='flex flex-col ml-1'>
                             <p className='text-sm font-semibold pb-1 hover:text-[#AA42FF] cursor-pointer text-[#fff]'>FNC vs TL | DAY 10 | MSI 2024</p>
@@ -746,7 +746,7 @@ function Main() {
                 <div id='con-info-live'>
                     <div id='info-live-video' className='relative'>     
                         <div>
-                            <Image id='hoverImg' src="/content/livechannel/1.jpg" width={360} height={360} className='object-cover cursor-pointer'/>
+                            <Image id='hoverImg' src="/content/livechannel/1.jpg" alt='' width={360} height={360} className='object-cover cursor-pointer'/>
                         </div>
                         <div className='absolute top-1 left-2'>
                             <button className='text-xs text-[#fff] bg-[red] font-bold py-0.5 px-1 rounded'>LIVE</button>
@@ -757,7 +757,7 @@ function Main() {
                     </div>
                     <div id='info-live-desc' className='flex gap-2 my-2'>
                         <div>
-                            <Image src="/content/liveprofile/1.png" width={38} height={38} className='object-cover rounded-full cursor-pointer'/>
+                            <Image src="/content/liveprofile/1.png" alt='' width={38} height={38} className='object-cover rounded-full cursor-pointer'/>
                         </div>
                         <div className='flex flex-col ml-1'>
                             <p className='text-sm font-semibold pb-1 hover:text-[#AA42FF] cursor-pointer text-[#fff]'>FNC vs TL | DAY 10 | MSI 2024</p>
@@ -776,7 +776,7 @@ function Main() {
                 <div id='con-info-live'>
                     <div id='info-live-video' className='relative'>     
                         <div>
-                            <Image id='hoverImg' src="/content/livechannel/1.jpg" width={360} height={360} className='object-cover cursor-pointer'/>
+                            <Image id='hoverImg' src="/content/livechannel/1.jpg" alt='' width={360} height={360} className='object-cover cursor-pointer'/>
                         </div>
                         <div className='absolute top-1 left-2'>
                             <button className='text-xs text-[#fff] bg-[red] font-bold py-0.5 px-1 rounded'>LIVE</button>
@@ -787,7 +787,7 @@ function Main() {
                     </div>
                     <div id='info-live-desc' className='flex gap-2 my-2'>
                         <div>
-                            <Image src="/content/liveprofile/1.png" width={38} height={38} className='object-cover rounded-full cursor-pointer'/>
+                            <Image src="/content/liveprofile/1.png" alt='' width={38} height={38} className='object-cover rounded-full cursor-pointer'/>
                         </div>
                         <div className='flex flex-col ml-1'>
                             <p className='text-sm font-semibold pb-1 hover:text-[#AA42FF] cursor-pointer text-[#fff]'>FNC vs TL | DAY 10 | MSI 2024</p>
@@ -806,7 +806,7 @@ function Main() {
                 <div id='con-info-live'>
                     <div id='info-live-video' className='relative'>     
                         <div>
-                            <Image id='hoverImg' src="/content/livechannel/1.jpg" width={360} height={360} className='object-cover cursor-pointer'/>
+                            <Image id='hoverImg' src="/content/livechannel/1.jpg" alt='' width={360} height={360} className='object-cover cursor-pointer'/>
                         </div>
                         <div className='absolute top-1 left-2'>
                             <button className='text-xs text-[#fff] bg-[red] font-bold py-0.5 px-1 rounded'>LIVE</button>
@@ -817,7 +817,7 @@ function Main() {
                     </div>
                     <div id='info-live-desc' className='flex gap-2 my-2'>
                         <div>
-                            <Image src="/content/liveprofile/1.png" width={38} height={38} className='object-cover rounded-full cursor-pointer'/>
+                            <Image src="/content/liveprofile/1.png" alt='' width={38} height={38} className='object-cover rounded-full cursor-pointer'/>
                         </div>
                         <div className='flex flex-col ml-1'>
                             <p className='text-sm font-semibold pb-1 hover:text-[#AA42FF] cursor-pointer text-[#fff]'>FNC vs TL | DAY 10 | MSI 2024</p>
